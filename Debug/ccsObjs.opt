@@ -1,0 +1,1 @@
+"./LCD_I2C.obj" "./MAX30102.obj" "./float_to_string.obj" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd" -llibc.a -l"/home/omar/ti/tivaware_c_series_2_1_4_178/driverlib/ccs/Debug/driverlib.lib" 
